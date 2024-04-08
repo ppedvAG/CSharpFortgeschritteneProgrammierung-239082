@@ -3,8 +3,6 @@ Kurs Repository zu Kurs C# Fortgeschrittene Programmierung der ppedv AG. Trainer
 ## M000 | GETTING STARTED
 - [ ] Intro
 
-# Tag 1
-
 ## M001 | Entwicklung der C# Sprache 7.0 -> C# 9.0
 
 - [ ] C# 7.0 - C# 7.3
@@ -12,10 +10,11 @@ Kurs Repository zu Kurs C# Fortgeschrittene Programmierung der ppedv AG. Trainer
 - [ ] C# 9.0
 
 
-## M002 | C# 10 bis C# 11
+## M002 | C# 10 bis C# 12
 
 - [ ] C# 10
 - [ ] C# 11
+- [ ] C# 12
 
 
 ## M003 | Delegates und Events
@@ -33,15 +32,13 @@ Kurs Repository zu Kurs C# Fortgeschrittene Programmierung der ppedv AG. Trainer
 - [ ] Constraints
 
 
-
-# Tag 2
-
 ## M005 | Serialisierung
 
 - [ ] Intro Serialisierung
 - [ ] Arbeiten mit Json
 - [ ] Unterschiede Newtonsoft.Json und System.Text.Json
 - [ ] Arbeiten mit XML, CSV, Binary
+
 
 ## M006 | Multithreading
 
@@ -51,6 +48,7 @@ Kurs Repository zu Kurs C# Fortgeschrittene Programmierung der ppedv AG. Trainer
 - [ ] Threadpool
 - [ ] Lock
 - [ ] Mutex, Interlocked, ConcurrentCollection
+
 
 ## M007 | TPL
 
@@ -63,14 +61,11 @@ Kurs Repository zu Kurs C# Fortgeschrittene Programmierung der ppedv AG. Trainer
 - [ ] Tasks verketten
 
 
-# Tag 3
-
 ## M008 | TPL Async/Await
 
 - [ ] Intro Async/Await Pattern
 - [ ] Async/Await vs Tasks
 - [ ] Async/Await in Verbindung mit WPF
-
 
 
 ## M009 | Reflection
