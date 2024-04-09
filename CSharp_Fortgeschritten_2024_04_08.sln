@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprachfeatures", "Sprachfeatures\Sprachfeatures.csproj", "{DD14D07C-CD00-4BCC-A4A1-DCD4E927DA8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprachfeatures", "Sprachfeatures\Sprachfeatures.csproj", "{DD14D07C-CD00-4BCC-A4A1-DCD4E927DA8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatement", "TopLevelStatement\TopLevelStatement.csproj", "{A700B496-4938-4960-A6B1-1B3A1ED946DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatement", "TopLevelStatement\TopLevelStatement.csproj", "{A700B496-4938-4960-A6B1-1B3A1ED946DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonstiges", "Sonstiges\Sonstiges.csproj", "{622EF353-C66B-4321-889A-33CE19DBEB31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sonstiges", "Sonstiges\Sonstiges.csproj", "{622EF353-C66B-4321-889A-33CE19DBEB31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{CDAF5E77-28E9-4FEA-9587-81B339BE2154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{C0BBD783-0E50-438B-93C2-B513D8F33C41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{622EF353-C66B-4321-889A-33CE19DBEB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{622EF353-C66B-4321-889A-33CE19DBEB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{622EF353-C66B-4321-889A-33CE19DBEB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAF5E77-28E9-4FEA-9587-81B339BE2154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAF5E77-28E9-4FEA-9587-81B339BE2154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAF5E77-28E9-4FEA-9587-81B339BE2154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAF5E77-28E9-4FEA-9587-81B339BE2154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BBD783-0E50-438B-93C2-B513D8F33C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BBD783-0E50-438B-93C2-B513D8F33C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BBD783-0E50-438B-93C2-B513D8F33C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BBD783-0E50-438B-93C2-B513D8F33C41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
