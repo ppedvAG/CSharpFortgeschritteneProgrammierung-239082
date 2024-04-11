@@ -1,0 +1,16 @@
+﻿<Window x:Class="AsyncAwaitWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="300"
+		WindowStartupLocation="CenterScreen"
+		ResizeMode="NoResize">
+    <StackPanel>
+		<Button Click="Button_Click" Content="Start"/>
+		<Button Click="Button_Click_ContinueWith" Content="Start Continue With"/>
+		<Button Click="Button_Click_Async" Content="Start Async"/>
+		<Button Click="Button_Click_ContinueWith_Async" Content="Start Continue With Async"/>
+		<Button Click="Request" Content="Webrequest starten"/>
+		<ProgressBar Height="30" IsIndeterminate="True"/>
+		<TextBlock x:Name="Info"/>
+	</StackPanel>
+</Window>
