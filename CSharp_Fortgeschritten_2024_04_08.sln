@@ -31,6 +31,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluginCalculator", "PluginC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluginClient", "PluginClient\PluginClient.csproj", "{D56BA9C5-9335-4E9B-AEA9-F5745E436812}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeispielTesting", "Beispiel\BeispielTesting.csproj", "{2C05764F-7EC7-43C8-B38B-659169CD75EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeispielTesting.Test", "Beispiel.Test\BeispielTesting.Test.csproj", "{B5896B55-D7F0-4923-BD4F-20A0602C947A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{D56BA9C5-9335-4E9B-AEA9-F5745E436812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D56BA9C5-9335-4E9B-AEA9-F5745E436812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D56BA9C5-9335-4E9B-AEA9-F5745E436812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C05764F-7EC7-43C8-B38B-659169CD75EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C05764F-7EC7-43C8-B38B-659169CD75EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C05764F-7EC7-43C8-B38B-659169CD75EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C05764F-7EC7-43C8-B38B-659169CD75EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5896B55-D7F0-4923-BD4F-20A0602C947A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5896B55-D7F0-4923-BD4F-20A0602C947A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5896B55-D7F0-4923-BD4F-20A0602C947A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5896B55-D7F0-4923-BD4F-20A0602C947A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
